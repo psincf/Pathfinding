@@ -12,5 +12,6 @@ Mouse wheels or +/- to change wall size
 
 `cargo run --release`
 
+![path](img/path.gif)
 ![a_star](img/a_star.png)
 ![flow_field](img/flowfield.png)
